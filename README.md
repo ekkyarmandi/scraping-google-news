@@ -13,7 +13,7 @@ MIN_DATE="mm/dd/yyyy"
 MAX_DATE="mm/dd/yyyy"
 ```
 
-- `PROXIES` is the way you hide your computer IP. You can buy proxy service on ProxyScrape or IPRoyal.
+- `PROXIES` is the way you hide your computer IP. You can buy proxy service on [ProxyScrape](https://proxyscrape.com/home?ref=zjm0nth) or [IPRoyal](https://iproyal.com/?r=285588). Is optional, you can set `TURNON_PROXIES` to `False`.
 - `TURNON_PROXIES` put True with capital T after equal to let the function read your Proxies. It will return an error if there's something wrong with your proxies or network connection.
 - `MIN_DATE` and `MAX_DATE` is range of article you want to go.
 
